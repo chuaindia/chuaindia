@@ -9,14 +9,17 @@
 
 - Competency 
 
-https://user-images.githubusercontent.com/106825373/195067693-d0566888-e1a3-44f3-aa47-fa42b5c00126.png
-
-https://user-images.githubusercontent.com/106825373/195067595-e30cd209-79b2-4acc-8748-98cf3fed7c7d.png
-
-https://user-images.githubusercontent.com/106825373/195067567-583d7073-3e03-4203-8339-f9fbf6807982.png
-
-https://user-images.githubusercontent.com/106825373/195067719-c12635b9-d0e4-4f37-a0d5-0c08fd987b8c.png
-
+   HTML
+   
+   CSS
+   
+   JAVASCRIPT
+   
+   GITHUB
+   
+   GITFLOW
+   
+   
 - 📫 How to reach me: 
 
 
