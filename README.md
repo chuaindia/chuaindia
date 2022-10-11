@@ -4,7 +4,7 @@
 
 - 🌱 I am a happy Micronaut.
 - 🌱 I am learning everything under the guidance of the online Microverse School. Go through my pinned repositories to see  
-     what effort I have made. 
+     what effort I have made.I am available for hire. 
 - 👯 I have started my second innings to become a successful Full Stack Software Developer in a good international company. 
 
 - Competency 
