@@ -31,8 +31,7 @@
    
    
 - 👯 My Portfolio :https://chuaindia.github.io/My-Portfolio/
-- 👯 My Resume :https://chuaindia.github.io/My-Portfolio/ 
-   
+- 👯 My Resume :https://docs.google.com/document/d/1r36DiQ6cQczTva092voLQtGhna7WGZPcami9GCSYoag/edit?usp=sharing
    
 - 📫 How to reach me: 
 
