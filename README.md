@@ -9,25 +9,25 @@
 
 - Competency 
 
-   HTML
+   ## HTML
    
-   CSS
+   ## CSS
    
-   JAVASCRIPT
+   ## JAVASCRIPT
    
-   GITHUB
+   ## GITHUB
    
-   GITFLOW
+   ## GITFLOW
    
-   React
+   ## React
    
-   Redux
+   ## Redux
    
-   RUBY
+   ## RUBY
    
-   RUBY on Rails
+   ## RUBY on Rails
    
-   Rspec
+   ## Rspec
    
    
 - 👯 My Portfolio :https://chuaindia.github.io/My-Portfolio/
@@ -35,12 +35,12 @@
    
 - 📫 How to reach me: 
 
-    E-mail: tghosh25@gmail.com
+    **E-mail**: tghosh25@gmail.com
     
-    GitHub: https://github.com/chuaindia
+    **GitHub**: https://github.com/chuaindia
     
-    Twitter: https://twitter.com/chuaghosh25
+    **Twitter**: https://twitter.com/chuaghosh25
     
-    LinkedIn: https://www.linkedin.com/in/tanusrighosh
+    **LinkedIn**: https://www.linkedin.com/in/tanusrighosh
     
  
