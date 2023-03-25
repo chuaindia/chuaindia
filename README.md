@@ -30,7 +30,8 @@
    Rspec
    
    
-- 👯 My Portfolio :https://chuaindia.github.io/My-Portfolio/    
+- 👯 My Portfolio :https://chuaindia.github.io/My-Portfolio/
+- 👯 My Resume :https://chuaindia.github.io/My-Portfolio/ 
    
    
 - 📫 How to reach me: 
