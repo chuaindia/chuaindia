@@ -19,8 +19,18 @@
    
    GITFLOW
    
+   React
    
-- 👯 My Portfolio :https://chuaindia.github.io/Portfolio/    
+   Redux
+   
+   RUBY
+   
+   RUBY on Rails
+   
+   Rspec
+   
+   
+- 👯 My Portfolio :https://chuaindia.github.io/My-Portfolio/    
    
    
 - 📫 How to reach me: 
@@ -30,6 +40,6 @@
     
     Twitter: https://twitter.com/chuaghosh25
     
-    LinkedIn: https://www.linkedin.com/in/tanusri-ghosh-2a56b814
+    LinkedIn: https://www.linkedin.com/in/tanusrighosh
     
  
