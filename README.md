@@ -35,7 +35,8 @@
    
 - 📫 How to reach me: 
 
-
+    E-mail: tghosh25@gmail.com
+    
     GitHub: https://github.com/chuaindia
     
     Twitter: https://twitter.com/chuaghosh25
