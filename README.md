@@ -9,27 +9,27 @@
 
 - Competency 
 
-   ## HTML https://cdn.svgporn.com/logos/html-5.svg
+   ## HTML 
    
-   ## CSS  https://cdn.svgporn.com/logos/css-3.svg
+   ## CSS  
    
-   ## JAVASCRIPT https://cdn.cdnlogo.com/logos/j/33/javascript.svg
+   ## JAVASCRIPT 
    
-   ## BOOTSTRAP  file:///D:/basic/images/Bootsrap.svg
+   ## BOOTSTRAP  
    
-   ## GITHUB  https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.knoldus.com%2Fintroduction-to-git-flow%2F&psig=AOvVaw0SWI8Io3Cl6ldqO4ZHsi4f&ust=1680195142339000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCPD4veXMgf4CFQAAAAAdAAAAABAE
+   ## GITHUB  
    
-   ## GITFLOW  https://www.google.com/url?sa=i&url=https%3A%2F%2Fdev.to%2Fjuliansci%2Fgit-flow-what-is-it-and-how-it-works-247b&psig=AOvVaw0SWI8Io3Cl6ldqO4ZHsi4f&ust=1680195142339000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCPD4veXMgf4CFQAAAAAdAAAAABAI
+   ## GITFLOW  
    
-   ## React  https://cdn.svgporn.com/logos/react.svg
+   ## React  
    
-   ## Redux  https://cdn.svgporn.com/logos/redux.svg
+   ## Redux  
    
-   ## RUBY   https://cdn.svgporn.com/logos/ruby.svg
+   ## RUBY   
    
-   ## RUBY on Rails  https://cdn.svgporn.com/logos/rails.svg
+   ## RUBY on Rails  
    
-   ## Rspec  ![image](https://user-images.githubusercontent.com/106825373/228612727-4a651215-7865-4733-966a-c72820b3e037.png)
+   ## Rspec  
    
    
 - 👯 My Portfolio :https://chuaindia.github.io/My-Portfolio/
