@@ -29,7 +29,7 @@
    
    ## RUBY on Rails  https://cdn.svgporn.com/logos/rails.svg
    
-   ## Rspec  https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frspec%2Frspec.github.io%2Fissues%2F7&psig=AOvVaw1OANLxL73-KWHtgcO-aJWs&ust=1680195227964000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLCsmo7Ngf4CFQAAAAAdAAAAABAE
+   ## Rspec  ![image](https://user-images.githubusercontent.com/106825373/228612727-4a651215-7865-4733-966a-c72820b3e037.png)
    
    
 - 👯 My Portfolio :https://chuaindia.github.io/My-Portfolio/
