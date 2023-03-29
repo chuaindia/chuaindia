@@ -9,25 +9,25 @@
 
 - Competency 
 
-   ## HTML
+   ## HTML https://cdn.svgporn.com/logos/html-5.svg
    
-   ## CSS
+   ## CSS  https://cdn.svgporn.com/logos/css-3.svg
    
-   ## JAVASCRIPT
+   ## JAVASCRIPT https://cdn.cdnlogo.com/logos/j/33/javascript.svg
    
-   ## GITHUB
+   ## GITHUB  https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.knoldus.com%2Fintroduction-to-git-flow%2F&psig=AOvVaw0SWI8Io3Cl6ldqO4ZHsi4f&ust=1680195142339000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCPD4veXMgf4CFQAAAAAdAAAAABAE
    
-   ## GITFLOW
+   ## GITFLOW  https://www.google.com/url?sa=i&url=https%3A%2F%2Fdev.to%2Fjuliansci%2Fgit-flow-what-is-it-and-how-it-works-247b&psig=AOvVaw0SWI8Io3Cl6ldqO4ZHsi4f&ust=1680195142339000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCPD4veXMgf4CFQAAAAAdAAAAABAI
    
-   ## React
+   ## React  https://cdn.svgporn.com/logos/react.svg
    
-   ## Redux
+   ## Redux  https://cdn.svgporn.com/logos/redux.svg
    
-   ## RUBY
+   ## RUBY   https://cdn.svgporn.com/logos/ruby.svg
    
-   ## RUBY on Rails
+   ## RUBY on Rails  https://cdn.svgporn.com/logos/rails.svg
    
-   ## Rspec
+   ## Rspec  https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frspec%2Frspec.github.io%2Fissues%2F7&psig=AOvVaw1OANLxL73-KWHtgcO-aJWs&ust=1680195227964000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLCsmo7Ngf4CFQAAAAAdAAAAABAE
    
    
 - 👯 My Portfolio :https://chuaindia.github.io/My-Portfolio/
