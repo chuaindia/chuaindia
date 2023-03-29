@@ -15,6 +15,8 @@
    
    ## JAVASCRIPT https://cdn.cdnlogo.com/logos/j/33/javascript.svg
    
+   ## BOOTSTRAP  file:///D:/basic/images/Bootsrap.svg
+   
    ## GITHUB  https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.knoldus.com%2Fintroduction-to-git-flow%2F&psig=AOvVaw0SWI8Io3Cl6ldqO4ZHsi4f&ust=1680195142339000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCPD4veXMgf4CFQAAAAAdAAAAABAE
    
    ## GITFLOW  https://www.google.com/url?sa=i&url=https%3A%2F%2Fdev.to%2Fjuliansci%2Fgit-flow-what-is-it-and-how-it-works-247b&psig=AOvVaw0SWI8Io3Cl6ldqO4ZHsi4f&ust=1680195142339000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCPD4veXMgf4CFQAAAAAdAAAAABAI
