@@ -76,7 +76,7 @@
       </td>
       <td width="120px" align="center">
         <span><strong>Rspec</strong></span><br><br>
-        <img height="50px" src="https://camo.githubusercontent.com/3af11e17e607505796318e5915a3dcad66ff6542e6146713dffa13d8114436f9/68747470733a2f2f662e636c6f75642e6769746875622e636f6d2f6173736574732f3136323937362f3832393438392f66626165323539362d663064642d313165322d393230612d6239383664656232303935662e706e67">
+        <img height="50px" src="https://rspec.info/images/logo_ogp.png">
       </td>
     </tr>
   </tbody>
