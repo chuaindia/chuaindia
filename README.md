@@ -59,8 +59,8 @@
         <img height="50px" src="https://cdn.cdnlogo.com/logos/b/50/bootstrap.svg">
       </td>
       <!-- <td width="120px" align="center">
-        <span><strong>Sass</strong></span><br><br>
-        <img height="50px" src="https://cdn.cdnlogo.com/logos/s/90/sass.svg">
+        <span><strong>Figma</strong></span><br><br>
+        <img height="50px" src="https://cdna.iconscout.com/img/figma.24122da.svg">
       </td> -->
       <td width="120px" align="center">
         <span><strong>Git</strong></span><br><br>
