@@ -1,10 +1,10 @@
 ### Hello! 👋
 
 
-- 🌱 I completed my full-stack software development program at Microverse. everything under the 
-     guidance of the online Microverse School. With the sound knowledge in multiple languages, framworks, and technologies, I am also a successful pair programmer capable of completing project through remote work. I am available for hire. Go through my pinned repositories to see what effort I have made.
-- 👯 I have started my second innings to become a successful Full-Stack Software Web Developer in a 
-     good international company. 
+- 🌱 I completed my full-stack software development program under the guidance of the online Microverse School. With sound knowledge of multiple languages, frameworks, 
+     and technologies, I am also a successful pair programmer capable of completing project through remote work. I am available for hire. Go through my pinned  
+     repositories to see what effort I have made.
+- 👯 I have started my second innings to become a successful Full-Stack Software Web Developer in a good international company. 
 
 ### <h1 align="center">TechStacks</h1>
 <br>
@@ -98,18 +98,6 @@
   </a>
 </div>  
    
-<!-- - 👯 My Portfolio :https://chuaindia.github.io/My-Portfolio/
-- 👯 My Resume :https://docs.google.com/document/d/1r36DiQ6cQczTva092voLQtGhna7WGZPcami9GCSYoag/edit?usp=sharing
-   
-- 📫 How to reach me: 
 
-    **E-mail**: tghosh25@gmail.com
-    
-    **GitHub**: https://github.com/chuaindia
-    
-    **Twitter**: https://twitter.com/chuaghosh25
-    
-    **LinkedIn**: https://www.linkedin.com/in/tanusrighosh
-     -->
     
  
