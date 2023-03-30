@@ -7,33 +7,83 @@
       what effort I have made. I am available for hire. 
 - 👯 I have started my second innings to become a successful Full Stack Software Developer in a good international company. 
 
-## Languages and Tools:
-
-
-<img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
-<img align="left" alt="Visual Studio Code" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Webpack" width="50px" src="https://github.com/webpack/media/blob/master/logo/icon.png"/>
-<img align="left" alt="Git" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"/>
-<img align="left" alt="GitHub" width="50px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<br><br>
-
-
-<h3> 🛠 &nbsp;Tech Stack</h3>
-
-- 💻 &nbsp;
-  
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-- 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
-  ![](https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=ffffff)
-
+### <h1 align="center">Abilities 🦾</h1>
+<br>
+<table align="center">
+  <tbody>
+    <tr valign="center">
+      <td width="120px" align="center">
+        <span><strong>Rails</strong></span><br><br>
+        <img height="50px" src="https://cdn.svgporn.com/logos/rails.svg">
+      </td>
+      <td width="120px" align="center">
+        <span><strong>Ruby</strong></span><br><br>
+        <img height="50px" src="https://cdn.svgporn.com/logos/ruby.svg">
+      </td>
+      <td width="120px" align="center">
+        <span><strong>React</strong></span><br><br>
+        <img height="50px" src="https://cdn.svgporn.com/logos/react.svg">
+      </td>
+      <td width="120px" align="center">
+        <span><strong>Redux</strong></span><br><br>
+        <img height="50px" src="https://cdn.svgporn.com/logos/redux.svg">
+      </td>
+      <td width="120px" align="center">
+        <span><strong>JavaScript</strong></span><br><br>
+        <img height="50px" src="https://cdn.cdnlogo.com/logos/j/33/javascript.svg">
+      </td>
+      <td width="120px" align="center">
+        <span><strong>Html 5</strong></span><br><br>
+        <img height="50px" src="https://cdn.svgporn.com/logos/html-5.svg">
+      </td>
+      <td width="120px" align="center">
+        <span><strong>CSS</strong></span><br><br>
+        <img height="50px" src="https://cdn.svgporn.com/logos/css-3.svg">
+      </td>
+   </tr>
+  </tbody>
+ </table>
+ <br>
+ <table align="center">
+   <tbody>
+   <tr valign="center">
+      <td width="120px" align="center">
+        <span><strong>PosgreSQL</strong></span><br><br>
+        <img height="50px" src="https://cdn.svgporn.com/logos/postgresql.svg">
+      </td>
+      <td width="120px" align="center">
+        <span><strong>MySQL</strong></span><br><br>
+        <img height="50px" src="https://cdn.svgporn.com/logos/mysql.svg">
+      </td>
+      <td width="120px" align="center">
+        <span><strong>Boostrap</strong></span><br><br>
+        <img height="50px" src="https://cdn.cdnlogo.com/logos/b/50/bootstrap.svg">
+      </td>
+      <td width="120px" align="center">
+        <span><strong>Sass</strong></span><br><br>
+        <img height="50px" src="https://cdn.cdnlogo.com/logos/s/90/sass.svg">
+      </td>
+      <td width="120px" align="center">
+        <span><strong>Git</strong></span><br><br>
+        <img height="50px" src="https://cdn.svgporn.com/logos/git-icon.svg">
+      </td>
+      <td width="120px" align="center">
+        <span><strong>Webpack</strong></span><br><br>
+        <img height="50px" src="https://cdn.svgporn.com/logos/webpack.svg">
+      </td>
+      <td width="120px" align="center">
+        <span><strong>Jest</strong></span><br><br>
+        <img height="50px" src="https://cdn.svgporn.com/logos/jest.svg">
+      </td>
+      <td width="120px" align="center">
+        <span><strong>React Testing Library</strong></span><br><br>
+        <img height="50px" src="https://cdn.svgporn.com/logos/testing-library.svg">
+      </td>
+    </tr>
+  </tbody>
+</table>
+<br>
+<br>
    
    
 - 👯 My Portfolio :https://chuaindia.github.io/My-Portfolio/
