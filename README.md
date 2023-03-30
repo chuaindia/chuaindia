@@ -29,15 +29,15 @@
       </td>
       <td width="120px" align="center">
         <span><strong>JavaScript</strong></span><br><br>
-        <img height="50px" src="https://cdn.cdnlogo.com/logos/j/33/javascript.svg">
+        <img height="50px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwAizTCjx2k19XlJRlP-_sYK7Hy1NMkW0j4Q&usqp=CAU">
       </td>
       <td width="120px" align="center">
         <span><strong>Html 5</strong></span><br><br>
-        <img height="50px" src="https://cdn.svgporn.com/logos/html-5.svg">
+        <img height="50px" src="https://www.freeiconspng.com/uploads/html5-icon-9.jpg">
       </td>
       <td width="120px" align="center">
         <span><strong>CSS</strong></span><br><br>
-        <img height="50px" src="https://cdn.svgporn.com/logos/css-3.svg">
+        <img height="50px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrnhIUBrPssdKpXFPBapyEIayqXxyBBO_OYAGzHCYeZ2S4VscIYAx5E0Apy0B43-8_EO8&usqp=CAU">
       </td>
    </tr>
   </tbody>
