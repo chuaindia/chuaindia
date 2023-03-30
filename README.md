@@ -13,11 +13,11 @@
     <tr valign="center">
       <td width="120px" align="center">
         <span><strong>Rails</strong></span><br><br>
-        <img height="50px" src="https://cdn.svgporn.com/logos/rails.svg">
+        <img height="50px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKB3lIodJ3Sbvtu1Gs9LafXUDfn-Qmp5_h4A&usqp=CAU">
       </td>
       <td width="120px" align="center">
         <span><strong>Ruby</strong></span><br><br>
-        <img height="50px" src="https://cdn.svgporn.com/logos/ruby.svg">
+        <img height="50px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsqb1ukdkrDLwlmDLJz0OWXZumNMKcfXkZ6w&usqp=CAU">
       </td>
       <td width="120px" align="center">
         <span><strong>React</strong></span><br><br>
