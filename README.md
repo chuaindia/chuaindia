@@ -2,7 +2,7 @@
 
 <br>
 <p align="center">
-🌱 I completed my full-stack software development program at Microverse. With sound knowledge of multiple languages, frameworks, and technologies, I am also a successful pair programmer capable of completing project through remote work. I am available for hire. Go through my pinned repositories to see what effort I have made.</br></br>
+🌱 I completed my full-stack software development program at Microverse. With sound knowledge of multiple languages, frameworks, and technologies, I am also a successful pair programmer capable of completing projects through remote work. I am available for hire. Go through my pinned repositories to see what effort I have made.</br></br>
 👯 I have started my second innings to become a successful Full-Stack Software Web Developer in a good international company. 
 </p>
 <br>
