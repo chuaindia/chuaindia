@@ -50,18 +50,18 @@
         <span><strong>PosgreSQL</strong></span><br><br>
         <img height="50px" src="https://cdn.svgporn.com/logos/postgresql.svg">
       </td>
-      <td width="120px" align="center">
+      <!-- <td width="120px" align="center">
         <span><strong>MySQL</strong></span><br><br>
         <img height="50px" src="https://cdn.svgporn.com/logos/mysql.svg">
-      </td>
+      </td> -->
       <td width="120px" align="center">
         <span><strong>Boostrap</strong></span><br><br>
         <img height="50px" src="https://cdn.cdnlogo.com/logos/b/50/bootstrap.svg">
       </td>
-      <td width="120px" align="center">
+      <!-- <td width="120px" align="center">
         <span><strong>Sass</strong></span><br><br>
         <img height="50px" src="https://cdn.cdnlogo.com/logos/s/90/sass.svg">
-      </td>
+      </td> -->
       <td width="120px" align="center">
         <span><strong>Git</strong></span><br><br>
         <img height="50px" src="https://cdn.svgporn.com/logos/git-icon.svg">
@@ -84,12 +84,12 @@
 <br>
 <br>
    
- ### <h2 align="center">How to reach me:</h2>
+ ### <h2 align="center">Reach me</h2>
 
  <div id="badges" align="center">
-   <a href="https://www.google.com/in/tghosh25@gmail.com/">
+   <!-- <a href="https://www.google.com/in/tghosh25@gmail.com/">
     <img height="50px" src="https://assets.dryicons.com/uploads/icon/preview/9649/small_1x_22e55292-4cce-4da2-aaa0-01a4f4da2ed4.png" alt="Gmail logo"/>
-  </a>
+  </a> -->
   <a href="https://www.linkedin.com/in/tanusrighosh/">
     <img height="50px" src="https://assets.dryicons.com/uploads/icon/preview/6904/small_1x_15d39206-630e-4d41-8e28-b353f7d8baaf.png" alt="LinkedIn logo"/>
   </a>
