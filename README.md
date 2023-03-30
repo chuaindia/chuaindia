@@ -58,10 +58,10 @@
         <span><strong>Boostrap</strong></span><br><br>
         <img height="50px" src="https://cdn.cdnlogo.com/logos/b/50/bootstrap.svg">
       </td>
-      <!-- <td width="120px" align="center">
+      <td width="120px" align="center">
         <span><strong>Figma</strong></span><br><br>
         <img height="50px" src="https://cdna.iconscout.com/img/figma.24122da.svg">
-      </td> -->
+      </td>
       <td width="120px" align="center">
         <span><strong>Git</strong></span><br><br>
         <img height="50px" src="https://cdn.svgporn.com/logos/git-icon.svg">
