@@ -68,7 +68,7 @@
       </td>
       <td width="120px" align="center">
         <span><strong>Webpack</strong></span><br><br>
-        <img height="50px" src="https://cdn.svgporn.com/logos/webpack.svg">
+        <img height="50px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTziuStT4HPqHXaDW0b3PhX_ZcITVM8uMXI9g&usqp=CAU">
       </td>
       <td width="120px" align="center">
         <span><strong>Jest</strong></span><br><br>
