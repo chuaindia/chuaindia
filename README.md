@@ -88,7 +88,7 @@
 
  <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/tanusrighosh/">
-    <img height="50px" src="https://cdn.svgporn.com/logos/linkedin-icon.svg" alt="LinkedIn logo"/>
+    <img height="50px" src="https://assets.dryicons.com/uploads/icon/preview/8333/small_1x_73c90e01-ea62-4aa5-a84c-79971a4ad62b.png" alt="LinkedIn logo"/>
   </a>
   <a href="https://twitter.com/chuaghosh25">
     <img height="50px" src="https://assets.dryicons.com/uploads/icon/preview/6907/small_1x_d82107b3-00a5-4d57-a962-aa1fe5b421a9.png" alt="Twitter logo"/>
