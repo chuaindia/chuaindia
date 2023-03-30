@@ -6,7 +6,7 @@
 👯 I have started my second innings to become a successful Full-Stack Software Web Developer in a good international company. 
 </p>
 <br>
-### <h1 align="center">TechStacks</h1>
+<h1 align="center">TechStacks</h1>
 <br>
 <table align="center">
   <tbody>
