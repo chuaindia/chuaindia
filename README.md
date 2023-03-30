@@ -64,7 +64,7 @@
       </td>
       <td width="120px" align="center">
         <span><strong>Git</strong></span><br><br>
-        <img height="50px" src="https://cdn.svgporn.com/logos/git-icon.svg">
+        <img height="50px" src="https://git-scm.com/images/logos/logomark-orange@2x.png">
       </td>
       <td width="120px" align="center">
         <span><strong>Webpack</strong></span><br><br>
