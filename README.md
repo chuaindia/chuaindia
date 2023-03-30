@@ -87,7 +87,7 @@
  ### <h2 align="center">How to reach me:</h2>
 
  <div id="badges" align="center">
-   <a href="https://www.google.com/in/tghosh@gmail.com/">
+   <a href="https://www.google.com/in/tghosh25@gmail.com/">
     <img height="50px" src="https://assets.dryicons.com/uploads/icon/preview/9649/small_1x_22e55292-4cce-4da2-aaa0-01a4f4da2ed4.png" alt="Gmail logo"/>
   </a>
   <a href="https://www.linkedin.com/in/tanusrighosh/">
