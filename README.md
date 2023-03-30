@@ -48,7 +48,7 @@
    <tr valign="center">
       <td width="120px" align="center">
         <span><strong>PosgreSQL</strong></span><br><br>
-        <img height="50px" src="https://cdn.svgporn.com/logos/postgresql.svg">
+        <img height="50px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQO4Xon_SO5fYnLHzzxlDoxdHQt5iJ7fZ5z7Q&usqp=CAU">
       </td>
       <!-- <td width="120px" align="center">
         <span><strong>MySQL</strong></span><br><br>
