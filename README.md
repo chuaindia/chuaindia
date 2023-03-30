@@ -84,8 +84,18 @@
 <br>
 <br>
    
+ ### <h2 align="center">How to reach me:</h2>
+
+ <div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/tanusrighosh/">
+    <img height="50px" src="https://cdn.svgporn.com/logos/linkedin-icon.svg" alt="LinkedIn logo"/>
+  </a>
+  <a href="https://twitter.com/chuaghosh25">
+    <img height="50px" src="https://cdn.svgporn.com/logos/twitter.svg" alt="Twitter logo"/>
+  </a>
+</div>  
    
-- 👯 My Portfolio :https://chuaindia.github.io/My-Portfolio/
+<!-- - 👯 My Portfolio :https://chuaindia.github.io/My-Portfolio/
 - 👯 My Resume :https://docs.google.com/document/d/1r36DiQ6cQczTva092voLQtGhna7WGZPcami9GCSYoag/edit?usp=sharing
    
 - 📫 How to reach me: 
@@ -97,5 +107,5 @@
     **Twitter**: https://twitter.com/chuaghosh25
     
     **LinkedIn**: https://www.linkedin.com/in/tanusrighosh
-    
+     -->
  
