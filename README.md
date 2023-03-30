@@ -37,7 +37,7 @@
       </td>
       <td width="120px" align="center">
         <span><strong>CSS</strong></span><br><br>
-        <img height="50px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrnhIUBrPssdKpXFPBapyEIayqXxyBBO_OYAGzHCYeZ2S4VscIYAx5E0Apy0B43-8_EO8&usqp=CAU">
+        <img height="50px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFe5wgyfZsBtYw1P8K9baZ4iuVdL2cVD15amSR_iMvYz68qoRjRqqksXnwXmVB4s0wVdQ&usqp=CAU">
       </td>
    </tr>
   </tbody>
