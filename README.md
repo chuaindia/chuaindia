@@ -91,7 +91,7 @@
     <img height="50px" src="https://cdn.svgporn.com/logos/linkedin-icon.svg" alt="LinkedIn logo"/>
   </a>
   <a href="https://twitter.com/chuaghosh25">
-    <img height="50px" src="https://cdn.svgporn.com/logos/twitter.svg" alt="Twitter logo"/>
+    <img height="50px" src="https://dryicons.com/icon/gold-twitter-icon-6907" alt="Twitter logo"/>
   </a>
 </div>  
    
