@@ -21,11 +21,11 @@
       </td>
       <td width="120px" align="center">
         <span><strong>React</strong></span><br><br>
-        <img height="50px" src="https://cdn.svgporn.com/logos/react.svg">
+        <img height="50px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6Z87HwKL6syKP6aEJUKM_mUkd5c1PJM6-3A&usqp=CAU">
       </td>
       <td width="120px" align="center">
         <span><strong>Redux</strong></span><br><br>
-        <img height="50px" src="https://cdn.svgporn.com/logos/redux.svg">
+        <img height="50px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJxb2JMfviJRRxoOTBkHVwRj1RkR1G_yf3mA&usqp=CAU">
       </td>
       <td width="120px" align="center">
         <span><strong>JavaScript</strong></span><br><br>
