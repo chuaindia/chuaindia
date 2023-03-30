@@ -7,7 +7,7 @@
       what effort I have made. I am available for hire. 
 - 👯 I have started my second innings to become a successful Full Stack Software Developer in a good international company. 
 
-### <h1 align="center">TechStacks 🦾</h1>
+### <h1 align="center">TechStacks</h1>
 <br>
 <table align="center">
   <tbody>
