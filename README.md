@@ -1,11 +1,10 @@
-### Hi there 👋
+### Hello! 👋
 
 
-
-- 🌱 I am a happy Micronaut.
-- 🌱 I am learning everything under the guidance of the online Microverse School. Go through my pinned repositories to see  
-      what effort I have made. I am available for hire. 
-- 👯 I have started my second innings to become a successful Full Stack Software Developer in a good international company. 
+- 🌱 I completed my full-stack software development program at Microverse. everything under the      
+     guidance of the online Microverse School. With the sound knowledge in multiple languages, framworks, and technologies, I am also a successful pair programmer capable of completing project through remote work. I am available for hire. Go through my pinned repositories to see what effort I have made.
+- 👯 I have started my second innings to become a successful Full-Stack Software Web Developer in a 
+     good international company. 
 
 ### <h1 align="center">TechStacks</h1>
 <br>
