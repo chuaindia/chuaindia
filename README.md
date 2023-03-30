@@ -56,7 +56,7 @@
       </td> -->
       <td width="120px" align="center">
         <span><strong>Boostrap</strong></span><br><br>
-        <img height="50px" src="https://cdn.cdnlogo.com/logos/b/50/bootstrap.svg">
+        <img height="50px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFBC4S5p3Oyq__5sQShy7Jyaqy7Y9b14aREQ&usqp=CAU">
       </td>
       <td width="120px" align="center">
         <span><strong>Figma</strong></span><br><br>
