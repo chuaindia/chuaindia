@@ -1,7 +1,7 @@
 ### Hello! 👋
 
 
-- 🌱 I completed my full-stack software development program at Microverse. everything under the      
+- 🌱 I completed my full-stack software development program at Microverse. everything under the 
      guidance of the online Microverse School. With the sound knowledge in multiple languages, framworks, and technologies, I am also a successful pair programmer capable of completing project through remote work. I am available for hire. Go through my pinned repositories to see what effort I have made.
 - 👯 I have started my second innings to become a successful Full-Stack Software Web Developer in a 
      good international company. 
